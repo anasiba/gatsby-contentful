@@ -1,6 +1,11 @@
 header{
     padding: 1rem 0 3rem ;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: baseline;
+    
 }
+
 .title{
     color: #000000;
     font-size: 3rem;
@@ -9,7 +14,7 @@ header{
 
 .logo{
     border: 1px solid #000000;
-    padding: 4px 8px;
+    padding: 2px 9px;
     display: inline-block;
 }
 
